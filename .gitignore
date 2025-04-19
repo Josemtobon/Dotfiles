@@ -3,4 +3,5 @@
 !nvim/*
 !wezterm/
 !wezterm/*
+!starship.toml
 !.gitignore

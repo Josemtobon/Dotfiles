@@ -5,9 +5,6 @@ local action = wezterm.action
 -- Color Scheme
 config.color_scheme = "Tokyo Night"
 
--- Font Settings
-config.font = wezterm.font("FiraCode Nerd Font")
-
 -- Tab Bar Appearance
 config.hide_tab_bar_if_only_one_tab = true
 
